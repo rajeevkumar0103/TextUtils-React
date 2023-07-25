@@ -1,3 +1,6 @@
+
+TextUtils is simple React js Project which has features like input messages, count total number of words and characters which is entered by user .It also show reading speed word per mili Minute and it has features to convert lowercase word to uppercase and vice-versa.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
